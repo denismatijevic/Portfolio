@@ -7,10 +7,11 @@
     padding-bottom: 2.5rem;    /* Footer height */
   }
   
-  #footer {
+  footer {
+    text-align: center;
     background-color: aquamarine;
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 2.5rem;            /* Footer height */
+    height: 1.65rem;            /* Footer height */
   }
