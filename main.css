@@ -17,12 +17,18 @@ body {
 }
 section {
   background-color: #f8f9fa;
-
+}
+#portfolio {
+  float: left;
+  position: relative;
+  /* margin-top: 40%; */
 }
 /* added padding to my image */
 img {
   background-color: #f8f9fa;
   padding: 10px;
+  height: 300px;
+  width: 300px;
   }
   .form-group {
     padding: 0px, 5px, 0px, 5px;
