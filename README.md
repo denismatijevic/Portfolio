@@ -9,7 +9,7 @@
 * Along with a lot of "google fu"
 
 ## Link
-* [My Portfolio](https://denismatijevic.github.io/responsive-portfolio/)
+<!-- * [My Portfolio](https://denismatijevic.github.io/responsive-portfolio/) -->
 
 ## Screenshots
 
