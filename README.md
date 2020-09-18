@@ -15,6 +15,6 @@
 
 <p style ="text-align:center;">
 <img src="assets/aboutme.png" width="300" alt= "Frame" height="280"/>
-<img src="assets/portfolio.png"  width="300" alt="Home Page" height="280"/>
+<img src="assets/portfolio1.png"  width="300" alt="Home Page" height="280"/>
 <img src="assets/contact.png" width="300" alt="Live Hubble View" height="280"/>
 </p>
