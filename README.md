@@ -1,4 +1,5 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+
 * In this project I've created a responsive portfolio. 
 * The portfolio consists of three different tabs, which all work and you can switch back and fourth between them
 * The about me includes a picture of me and a description of who I am. 
@@ -9,12 +10,12 @@
 * Along with a lot of "google fu"
 
 ## Link
-<!-- * [My Portfolio](https://denismatijevic.github.io/responsive-portfolio/) -->
+* https://denismatijevic.github.io/responsive-portfolio/
 
 ## Screenshots
 
-<!-- <p style ="text-align:center;">
+<p style ="text-align:center;">
 <img src="assets/aboutme.png" width="300" alt= "Frame" height="280"/>
 <img src="assets/portfolio1.png"  width="300" alt="Home Page" height="280"/>
 <img src="assets/contact.png" width="300" alt="Live Hubble View" height="280"/>
-</p> -->
+</p>
