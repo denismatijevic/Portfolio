@@ -28,7 +28,30 @@ img {
   background-color: #f8f9fa;
   padding: 10px;
   height: 300px;
+  width: 350px;
+  }
+#img1 {
+  background-color: #f8f9fa;
+  padding: 10px;
+  height: 300px;
   width: 300px;
+}
+#img2 {
+  background-color: #f8f9fa;
+  padding: 10px;
+  height: 300px;
+  width: 300px;
+}
+  #github {
+    height: 50px;
+    width: 50px;
+  }
+  #linkedin{
+    height: 50px;
+    width: 50px;
+  }
+  #resume{
+    height: 50px;
   }
   .form-group {
     padding: 0px, 5px, 0px, 5px;
