@@ -10,7 +10,7 @@
 * Along with a lot of "google fu"
 
 ## Link
-* https://denismatijevic.github.io/responsive-portfolio/
+* https://denismatijevic.github.io/Portfolio/about.html
 
 ## Screenshots
 
