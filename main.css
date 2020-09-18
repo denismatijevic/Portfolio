@@ -76,6 +76,9 @@ img {
   #content-wrap {
     padding-bottom: 2.5rem;    /* Footer height */
   }
+  #contactme {
+    font-family: 'Bad Script', cursive;
+  }
   
   footer {
     text-align: center;
